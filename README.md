@@ -24,12 +24,18 @@
   - I support Internacional, the best football team in the world.
 
 ### Projects you should take a look
-- Look at my latest github repo: [github/czekster/markov](https://github.com/czekster/markov)
-
+- Look at my Markov Chains book: [github/czekster/markov](https://github.com/czekster/markov)
+- I recently (Nov/25) (self-)published a book on Threat Modelling CAVs: [https://github.com/czekster/tm-cavs](https://github.com/czekster/tm-cavs)
+ 
 ### Research prospects
 - Dependability modelling
 - Cybersecurity and Attack Modelling Techniques (AMT)
-- STIX(tm) modelling and the ATT&CK framework
+- Threat Modelling
+- Cyber Threat Intelligence using STIX(tm) modelling and the ATT&CK framework
+
+### Domains
+- Cyber-Physical Systems (CPS) and Internet-of-Things (IoT)
+- Connected and Autonomous Vehicles (CAV)
 
 ### Author
 <img align="right" width="300" src="rmc.png">
@@ -45,6 +51,6 @@ Please, check out his virtual presence on the following platforms:
 - [GitHub](https://github.com/czekster/)
 
 ### Latest changes
-- Last update: 19/April/2022
+- Last update: 05/November/2025
 
 
