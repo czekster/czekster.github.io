@@ -26,7 +26,9 @@
 ### Projects you should take a look
 - Look at my Markov Chains book: [github/czekster/markov](https://github.com/czekster/markov)
 - I recently (Nov/25) (self-)published a book on Threat Modelling CAVs: [https://github.com/czekster/tm-cavs](https://github.com/czekster/tm-cavs)
- 
+
+- A LaTeX/Overleaf format for writing your [New Investigator Award (NIA)](https://www.ukri.org/councils/epsrc/guidance-for-applicants/types-of-funding-we-offer/new-investigator-award/) for UKRI/EPSRC: [download here](https://ricardo.techster.uk/public/downloads.php)
+
 ### Research prospects
 - Dependability modelling
 - Cybersecurity and Attack Modelling Techniques (AMT)
